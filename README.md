@@ -11,5 +11,5 @@ Deux programmes ont été conçu, deux magnières différentes de répondre au s
 
 ### Algorithme par Arbre des suffix  
 
-Pour plus d'informations sur les Algorithmes, des README existe.
+Pour plus d'informations sur les Algorithmes, des README existent.
 
