@@ -17,7 +17,7 @@ from progress.bar import ChargingBar
 import sys
 #--------------------------import fonctions Créer----------------------------------
 
-from testHtml import *
+from utils.testHtml import *
 from utils.fonctions_phrases import *
 from utils.fonctions_ngram import *
 from utils.fonctions_levenshtein import *
